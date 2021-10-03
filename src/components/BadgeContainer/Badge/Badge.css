@@ -1,0 +1,12 @@
+.Badge{
+    width: 180px;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    border-radius: 20px;
+    margin:0  30px ;
+    
+}
+.Badgeicon{
+    margin :30px 25px;
+}

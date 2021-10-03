@@ -1,0 +1,12 @@
+.background{
+  background-color:#e6e6ff;
+  height : 100vh;
+  /* position: absolute; */
+}
+.menu-background{
+  background-color: #181818;
+  height : auto;
+  border-radius: 50px 50px;
+  margin-left: 3px;
+  display: flex;
+}

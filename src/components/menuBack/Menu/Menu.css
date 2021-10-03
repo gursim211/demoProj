@@ -1,0 +1,10 @@
+.bar-text{
+    color: blanchedalmond;
+}
+.bar{
+    display: flex;
+    cursor: pointer;
+}
+.bar-icon{
+    padding : 0 20px;
+}
